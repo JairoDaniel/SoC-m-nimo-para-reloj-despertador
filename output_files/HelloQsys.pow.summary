@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Thu May 02 23:23:31 2019
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+Revision Name : HelloQsys
+Top-level Entity Name : taller
+Family : Cyclone V
+Device : 5CSEMA5F31C6
+Power Models : Final
+Total Thermal Power Dissipation : 421.79 mW
+Core Dynamic Thermal Power Dissipation : 0.84 mW
+Core Static Thermal Power Dissipation : 411.44 mW
+I/O Thermal Power Dissipation : 9.51 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data
